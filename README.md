@@ -1,62 +1,85 @@
-# 👋 Hi, I'm Manoj Adhikari
+# Manoj Adhikari
 
-**Full-Stack Developer · React | Node.js | MongoDB | Tailwind · Currently Based in Sydney, Australia**
-
-I'm a pragmatic full-stack engineer with a strong eye for clean UI/UX and a deep understanding of scalable backend systems. I build high-impact, human-centered products that are fast, accessible, and reliable — from concept to deployment.
+**Full Stack Developer | React.js | Node.js | MongoDB | Problem Solver | Based in Australia**
 
 ---
 
-## 🚀 Currently Building
+## 🔎 About Me
 
-- **KindMind** — A daily affirmation platform with Studio Ghibli–inspired visuals (React + Vite + Tailwind + LocalStorage)
-- **Financial Tracker** — A personal finance dashboard with secure authentication and Stripe payment flow (MERN stack)
-- **Next-gen Portfolio** — Migrating to Vite + Tailwind with a micro-animated “HelloRotator” and Swiss design system
+I'm a passionate and self-driven **Full Stack Developer** actively building production-grade applications using the **MERN stack (MongoDB, Express.js, React, Node.js)**. My journey started with curiosity and turned into deep commitment—now backed by real-world experience in building, deploying, and managing scalable tech projects.
 
----
-
-## 🤝 Open to Collaborate On
-
-- Frontend-heavy **React/Next.js** applications
-- **UI/UX prototyping** in Figma (micro-interactions, responsive layouts)
-- **Data-powered dashboards** (sports prediction models, API visualizations)
-- Building ethical, accessible, and performance-first products
+I recently completed the 24-week intensive MERN Bootcamp at **Dented Code Academy**, and I'm currently sharpening my skills by building fully deployed applications that solve real problems.
 
 ---
 
-## 🧠 I’m Currently Exploring
+## 🛠️ Tech Stack
 
-- **React Server Components** + app router architecture
-- **TypeScript** for typed full-stack development
-- **GraphQL & REST APIs** with modular controller patterns
-- **Figma** workflows for clean dev handoff and pixel-perfect UI
-
----
-
-## 🧩 Tech I Use & Love
-
-- **Frontend:** React, Vite, Tailwind CSS, Bootstrap 5, Framer Motion
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose, JWT, Stripe
-- **Dev Tools:** GitHub, Postman, VS Code, REST Client, Render/AWS
-- **Design:** Figma, Ghibli-style visuals, accessibility-first approach
+**Languages & Tools:**
+- JavaScript (ES6+), TypeScript (in progress), HTML5, CSS3, SASS
+- React.js, Next.js, Redux Toolkit, Tailwind CSS
+- Node.js, Express.js, MongoDB, Mongoose
+- Git, GitHub, Vercel, Netlify, Railway, Postman
+- RESTful APIs, CI/CD pipelines, Responsive Design
+- LMS Systems (MOODLE), Microsoft 365 Admin, Active Directory
 
 ---
 
-## 📚 Background
+## 📂 Featured Projects
 
-- 🎓 Bachelor's in Computer & Information Systems Security (Nepal)
-- 📍 Currently studying Business Information Systems in Australia (AIH)
-- 🧠 Former IT Support Intern turned full-stack dev
-- 🧳 Actively seeking **tech roles in regional Australia** to support PR pathway
+### 1. **B&M Tech Store – E-commerce Website**
+Live Store: [bmtech.au](https://bmtech.au)  
+Admin Panel: React CMS dashboard to track sales, inventory & user data.  
+Features:
+- Product management
+- Secure checkout & order tracking
+- Admin dashboard with analytics and revenue insights  
+Tech Stack: Next.js 14, Tailwind CSS, MongoDB, Stripe API, Vercel Hosting
+
+### 2. **KindMind – Daily Affirmation App**
+In-progress mental wellness app with Studio Ghibli-style UI.  
+Focus: UI/UX finesse, API fetching, state management  
+Tech Stack: React, Vite, Local Storage, Zustand
+
+### 3. **Personal Portfolio**  
+Built with React + Vite, fully responsive, SEO-optimized  
+Features project case studies, GitHub links, live demos  
+Hosted on: Netlify
 
 ---
 
-## 📬 Let's Connect
+## 🎯 What I’m Currently Working On
 
-- 📧 Email: manojadhikari57@gmail.com
-- 🌐 Portfolio: [manojportfolioo.vercel.app](https://manojportfolioo.vercel.app)
-- 🧑‍💻 GitHub Repos: [github.com/manojadh57](https://github.com/manojadh57)
-- 📘 LinkedIn: [linkedin.com/in/manojadh57](https://linkedin.com/in/manojadh57)
+- Migrating my portfolio to React + Vite
+- Launching a personal blog on tech + learning in public
+- Collaborating on analytics dashboards and UI/UX design systems
 
 ---
 
-> “Build things that matter. Learn every day. Grow with people who care.”
+## 💼 Career Goals
+
+I’m actively seeking roles as:
+- **Junior/Mid Full Stack Developer**
+- **Frontend Developer (React/Next.js)**
+- **Tech Support + Developer Hybrid Roles**
+  
+Open to contract, full-time, or internship opportunities across Australia or remote-first teams.
+
+---
+
+## 🧠 GitHub Stats
+
+- 50+ repositories
+- Projects focused on real-world use cases
+- Strong commit history and contribution streak
+
+---
+
+## 📬 Let’s Connect
+
+- LinkedIn: [linkedin.com/in/manojadh57](https://www.linkedin.com/in/manojadh57/)
+- GitHub: [github.com/manojadh57](https://github.com/manojadh57)
+- Email: manojadhikari57@gmail.com
+
+---
+
+**Let’s build something amazing together.**
