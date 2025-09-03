@@ -22,7 +22,7 @@
 
 ---
 
-## 👋 About
+##  About
 I build production-grade web apps with **React/Next.js**, **Node/Express**, and **MongoDB**—from data modeling and API design to auth, payments, and deployments.  
 - Completed a 24-week **MERN Bootcamp** (Dented Code Academy).  
 - Ship end-to-end: **schemas → REST APIs → JWT/refresh → Stripe (PI) → CI/CD → dashboards**.  
@@ -30,7 +30,7 @@ I build production-grade web apps with **React/Next.js**, **Node/Express**, and 
 
 ---
 
-## 🧰 Stack
+##  Stack
 <!-- Compact, readable icons -->
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,nodejs,express,mongodb,tailwind,vercel,git,github,postman&perline=13" alt="stack" />
@@ -43,16 +43,12 @@ Mongoose · Stripe · REST · Responsive Design · Microsoft 365 Admin · Active
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### B&M Tech Store — E-commerce
-**Live:** https://bmtech.au  
+**Live:** [https://bmtech.au  ](http://ecommerce-client-fe-global-bucket.s3-website-ap-southeast-2.amazonaws.com/)
 **Stack:** Next.js 14 · Tailwind · MongoDB/Mongoose · Stripe · Vercel  
 **Ships:** product catalog, secure checkout (PaymentIntent), order tracking, JWT/refresh auth, and an **Admin CMS** for inventory & revenue KPIs.
-
-### KindMind — Daily Affirmations (WIP)
-**Stack:** React (Vite), Zustand, LocalStorage  
-Studio-Ghibli-inspired UI, smooth state, offline-friendly.
 
 ### Portfolio
 **Live:** https://manojportfolioo.vercel.app/  
@@ -62,7 +58,7 @@ Responsive, SEO-tuned case-study site with live demos & repo links.
 
 ---
 
-## 🧩 Strengths
+##  Strengths
 - **Product sense:** focus on user value and fast feedback loops.  
 - **Back-end quality:** validation, structured errors, logging, helpful docs.  
 - **Data & perf:** pragmatic Mongo schemas, indices where they matter.  
@@ -71,7 +67,7 @@ Responsive, SEO-tuned case-study site with live demos & repo links.
 
 ---
 
-## 📊 GitHub Snapshot (Live Cards)
+## GitHub Snapshot (Live Cards)
 <!-- These render immediately—no repo assets or Actions needed -->
 <p>
   <img height="165" alt="stats"
@@ -100,26 +96,26 @@ Responsive, SEO-tuned case-study site with live demos & repo links.
 
 ---
 
-## 🎯 Focus Now
+##  Focus Now
 - Migrating portfolio to **React + Vite** with a tighter design system.  
 - Writing short **tech notes** (learning in public).  
 - Building analytics dashboards (KPIs, charts) inside the Admin CMS.
 
 ---
 
-## 🎓 Education
+##  Education
 - **Bachelor’s — Computer & Information Systems Security / Information Assurance**  
 - **MERN Bootcamp (24 weeks)** — Dented Code Academy
 
 ---
 
-## 💼 Target Roles
+##  Target Roles
 **Full-Stack (React/Node)** · **Frontend (React/Next.js)** · Tech Support + Dev Hybrid  
 Open to **full-time / contract / internships** — AU-wide or remote-first.
 
 ---
 
-## 📬 Contact
+##  Contact
 **LinkedIn:** <a href="https://www.linkedin.com/in/manojadh57/">manojadh57</a> •
 **GitHub:** <a href="https://github.com/manojadh57">github.com/manojadh57</a> •
 **Email:** <a href="mailto:manojadhikari57@gmail.com">manojadhikari57@gmail.com</a>
