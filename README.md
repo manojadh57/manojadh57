@@ -1,85 +1,116 @@
-# Manoj Adhikari
+<!-- =========================
+   Manoj Adhikari — GitHub Profile
+   Style: clean, recruiter-friendly, minimal animations
+   ========================= -->
 
-**Full Stack Developer | React.js | Node.js | MongoDB | Problem Solver | Based in Australia**
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Manoj%20Adhikari&fontAlign=50&fontSize=38&desc=Full-Stack%20Developer%20(React%20%7C%20Node%20%7C%20MongoDB)&descAlignY=65" alt="header" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manojadh57/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff">
+  </a>
+  <a href="mailto:manojadhikari57@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-red">
+  </a>
+  <a href="https://manojportfolioo.vercel.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live-black?logo=vercel">
+  </a>
+  <!-- If you add a PDF later, swap # with the file url -->
+  <a href="#">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-ATS%20Ready-1f6feb">
+  </a>
+</p>
+
+<h1 align="center">Hi, I’m Manoj — Full-Stack Developer (Australia)</h1>
+
+<p align="center">
+I build production-grade web apps with <b>React/Next.js</b>, <b>Node/Express</b>, and <b>MongoDB</b>—focused on clean architecture, accessible UI, and measurable performance.
+</p>
 
 ---
 
-## 🔎 About Me
-
-I'm a passionate and self-driven **Full Stack Developer** actively building production-grade applications using the **MERN stack (MongoDB, Express.js, React, Node.js)**. My journey started with curiosity and turned into deep commitment—now backed by real-world experience in building, deploying, and managing scalable tech projects.
-
-I recently completed the 24-week intensive MERN Bootcamp at **Dented Code Academy**, and I'm currently sharpening my skills by building fully deployed applications that solve real problems.
+## 🔎 About
+- Graduate software engineer; completed a 24-week MERN Bootcamp at **Dented Code Academy**.  
+- Shipping real products end-to-end: data modeling, APIs, auth, payments, deployments, and dashboards.  
+- Comfortable across the stack: **frontend UX**, **API design**, **DB schema**, **DevOps basics** (Vercel/Railway), and **Stripe** integrations.  
+- Based in **Sydney (UTC+10)**. Open to **AU-wide** roles (onsite/remote/contract).
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech
+![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,vercel,git,github,tailwind,bootstrap,html,css,postman,linux&perline=12)
 
-**Languages & Tools:**
-- JavaScript (ES6+), TypeScript (in progress), HTML5, CSS3, SASS
-- React.js, Next.js, Redux Toolkit, Tailwind CSS
-- Node.js, Express.js, MongoDB, Mongoose
-- Git, GitHub, Vercel, Netlify, Railway, Postman
-- RESTful APIs, CI/CD pipelines, Responsive Design
-- LMS Systems (MOODLE), Microsoft 365 Admin, Active Directory
+**Also used:** Mongoose · Stripe · CI/CD · REST · Responsive Design · Microsoft 365 Admin · Active Directory · MOODLE (LMS)
 
 ---
 
 ## 📂 Featured Projects
 
-### 1. **B&M Tech Store – E-commerce Website**
-Live Store: [bmtech.au](https://bmtech.au)  
-Admin Panel: React CMS dashboard to track sales, inventory & user data.  
-Features:
-- Product management
-- Secure checkout & order tracking
-- Admin dashboard with analytics and revenue insights  
-Tech Stack: Next.js 14, Tailwind CSS, MongoDB, Stripe API, Vercel Hosting
+### 1) B&M Tech Store — E-commerce
+**Live:** https://bmtech.au  
+**What it does:** Full store with product catalog, secure checkout, order tracking, and an **Admin CMS** for inventory, users, and revenue insights.  
+**Stack:** Next.js 14, Tailwind, MongoDB/Mongoose, Stripe, Vercel  
+**Highlights:** JWT auth + refresh · email flows · PaymentIntent · dashboard KPIs.
 
-### 2. **KindMind – Daily Affirmation App**
-In-progress mental wellness app with Studio Ghibli-style UI.  
-Focus: UI/UX finesse, API fetching, state management  
-Tech Stack: React, Vite, Local Storage, Zustand
+### 2) KindMind — Daily Affirmations (WIP)
+**Focus:** Ghibli-style UI, smooth state management, offline-friendly local storage.  
+**Stack:** React (Vite), Zustand, LocalStorage.
 
-### 3. **Personal Portfolio**  
-Built with React + Vite, fully responsive, SEO-optimized  
-Features project case studies, GitHub links, live demos  
-Hosted on: Netlify
+### 3) Personal Portfolio
+**Live:** https://manojportfolioo.vercel.app/  
+**What it shows:** Case studies, live demos, GitHub links. **SEO-optimized** and mobile-first.
+
+> More repos: check pinned projects below. Demo access to private Admin CMS on request.
 
 ---
 
-## 🎯 What I’m Currently Working On
-
-- Migrating my portfolio to React + Vite
-- Launching a personal blog on tech + learning in public
-- Collaborating on analytics dashboards and UI/UX design systems
-
----
-
-## 💼 Career Goals
-
-I’m actively seeking roles as:
-- **Junior/Mid Full Stack Developer**
-- **Frontend Developer (React/Next.js)**
-- **Tech Support + Developer Hybrid Roles**
-  
-Open to contract, full-time, or internship opportunities across Australia or remote-first teams.
+## 🧩 Strengths (What I bring to a team)
+- **Product thinking:** translate real problems into simple, shippable features.  
+- **Quality:** type-safe APIs (when using TS), input validation, error handling, logging.  
+- **Data modeling:** pragmatic Mongo schemas; indexes where they matter.  
+- **Payments & auth:** Stripe best practices, JWT/refresh, role-based access.  
+- **DX/Docs:** clear READMEs, Postman collections, concise PRs and commit messages.
 
 ---
 
-## 🧠 GitHub Stats
-
-- 50+ repositories
-- Projects focused on real-world use cases
-- Strong commit history and contribution streak
-
----
-
-## 📬 Let’s Connect
-
-- LinkedIn: [linkedin.com/in/manojadh57](https://www.linkedin.com/in/manojadh57/)
-- GitHub: [github.com/manojadh57](https://github.com/manojadh57)
-- Email: manojadhikari57@gmail.com
+## 🎯 Current Focus
+- Migrating portfolio to **React + Vite** with a clean design system.  
+- Writing a short **tech blog** (learning in public).  
+- Building **analytics dashboards** (charts, KPIs) for Admin CMS.
 
 ---
 
-**Let’s build something amazing together.**
+## 📊 GitHub Snapshot
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manojadh57&show_icons=true&hide_border=true&rank_icon=percentile" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojadh57&layout=compact&hide_border=true" alt="top langs" />
+</p>
+
+<!-- Optional streaks; comment out if you prefer super-minimal -->
+<p>
+  <img src="https://streak-stats.demolab.com?user=manojadh57&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak" />
+</p>
+
+---
+
+## 🎓 Education
+- **Bachelors — Computer & Information Systems Security / Information Assurance**  
+- **MERN Bootcamp (24 weeks)** — Dented Code Academy
+
+---
+
+## 💼 Roles I’m Targeting
+**Full-Stack (React/Node)** · **Frontend (React/Next.js)** · Tech Support + Dev Hybrid  
+Availability: full-time, contract, or internship — **Australia or remote-first**.
+
+---
+
+## 📬 Contact
+- **LinkedIn:** <a href="https://www.linkedin.com/in/manojadh57/">manojadh57</a>  
+- **GitHub:** <a href="https://github.com/manojadh57">github.com/manojadh57</a>  
+- **Email:** <a href="mailto:manojadhikari57@gmail.com">manojadhikari57@gmail.com</a>
+
+<!-- ====== End ====== -->
