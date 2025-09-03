@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/manojadh57/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"></a>
   <a href="mailto:manojadhikari57@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ef4444?logo=gmail&logoColor=fff&style=for-the-badge"></a>
   <a href="https://manojportfolioo.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?logo=vercel&logoColor=fff&style=for-the-badge"></a>
-  <a href="https://bmtech.au"><img alt="B&M Tech Store" src="https://img.shields.io/badge/B%26M%20Tech%20Store-0ea5e9?style=for-the-badge"></a>
+  <a href="http://ecommerce-client-fe-global-bucket.s3-website-ap-southeast-2.amazonaws.com"><img alt="B&M Tech Store" src="https://img.shields.io/badge/B%26M%20Tech%20Store-0ea5e9?style=for-the-badge"></a>
 </p>
 
 <h3 align="center">Sydney, Australia • Open to AU-wide & remote roles</h3>
